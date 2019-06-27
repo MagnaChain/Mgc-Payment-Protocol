@@ -1,6 +1,6 @@
 {
-  "name": "Mgc-Payment-Protocol",
-  "version": "1.8.0",
+  "name": "mgc-payment-protocol",
+  "version": "1.8.1",
   "description": "Payment Protocol (BIP70 and related) support for bitcore",
   "author": "Felix Lee(ustcerlf@gmail.com)",
   "main": "index.js",
@@ -57,7 +57,7 @@
     "protobufjs": "=5.0.3"
   },
   "peerDependencies": {
-    "Mgc-Corelib": "git+ssh:git@github.com:MagnaChain/Mgc-Corelib.git"
+    "mgc-corelib": "git+ssh:git@github.com:MagnaChain/Mgc-Corelib.git"
   },
   "devDependencies": {
     "bitcore-build": "https://github.com/bitpay/bitcore-build.git#1023e8a99cd42b9241ccafe8e34c52f308c10284",
